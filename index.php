@@ -2,7 +2,7 @@
 
 //string olaraq daxil edin..
 $eded = new NumberToWord;
-echo $eded->turn('562652459689,88');
+echo $eded->turn('52459689,88');
 
 
 class NumberToWord
